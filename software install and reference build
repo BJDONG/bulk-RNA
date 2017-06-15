@@ -1,0 +1,11 @@
+1 bowtie2
+http://bowtie-bio.sourceforge.net/bowtie2/manual.shtml
+
+2 tophead
+
+
+gtf file 
+download from http://genome.ucsc.edu/cgi-bin/hgTables 
+  choose track: RefSeq Genes table: refGene
+same format as refGene.txt file but with an additional header at first line
+
